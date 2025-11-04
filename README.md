@@ -72,7 +72,17 @@ Overall Trend	Students show positive engagement with learning delivery and suppo
 
 
 
-🏁 Conclusion
+## 🏁 Conclusion
 
 The analysis highlights that students are largely satisfied with the course. Educators can focus on improving assignment balance and presentation clarity to further enhance student experience.
 
+## 📬 Contact
+*Author :* Prasanna Kalisetty  
+
+*GitHub:* https://github.com/kalisettyprasanna28-hue 
+
+
+*LinkedIn:* https://www.linkedin.com/in/prasanna-kalisetty-076728327 
+
+
+⭐ If you found this project helpful, please give it a star on GitHub!
